@@ -43,6 +43,7 @@ Screenshots:<br><br>
 Credits:<br>
 <br>- Pau Montserrat - For Title Screen Concept: https://www.youtube.com/watch?v=OWbT_WKwsmE
 <br>- slakshmi357 - For static wallpaper art and for art that is cotnained in Pau's Title Screen Concept: https://www.deviantart.com/slakshmi357
+<br>- Messer Music - For Title Screen Sountrack (Custom Dearly Beloved sountrack): https://www.youtube.com/watch?v=oGUqLzcFjqI
 <br>- Slink - For Wallpaper Engine Code/Scripts used in this project
 <br>- Disney and Sqaure Enix: for everything else in this project
 </p>
